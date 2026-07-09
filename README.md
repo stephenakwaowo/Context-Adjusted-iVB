@@ -17,4 +17,4 @@ The residual between actual iVB and expected iVB is standardized to a plus scale
 115 = +1 standard deviation  
 85 = -1 standard deviation  
 
-This repository contains the notebook, validation checks, and outputs used for the accompanying Substack article.
+This repository contains the notebook and outputs used for the accompanying Substack article.
